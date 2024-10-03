@@ -1,5 +1,7 @@
 # Eyes-Of-The-God
-Système de sécurité automatique des bots personnalisé Modulo
+
+# C'est quoi ca ?
+Eyes-Of-The-God est le système de sécurité interne aux bots personnalisé Modulo. Ce système est totalement automatique et ne nécéssite pas l'intervention d'un humain. 
 
 ## Pourquoi ya t'il un fichier token ?
 En cas d'action anormal provoqué par votre bot, il enverra automatiquement le token ici. Discord et github communique en temps réel et en cas de fuite de token dans un fichier publique discord rénitialise autoatiquement le token d'acces.
