@@ -1,14 +1,22 @@
-# Eyes-Of-The-God
+# 👁️ Eyes-Of-The-God
+### 🔒 Système de sécurité automatisé pour bots Modulo
 
-# C'est quoi ca ?
-Eyes-Of-The-God est le système de sécurité interne aux bots personnalisé Modulo. Ce système est totalement automatique et ne nécéssite pas l'intervention d'un humain. 
+---
 
-## Pourquoi ya t'il un fichier token ?
-En cas d'action anormal provoqué par votre bot, il enverra automatiquement le token ici. Discord et github communique en temps réel et en cas de fuite de token dans un fichier publique discord rénitialise autoatiquement le token d'acces.
+### ⚙️ **Qu'est-ce que c'est ?**  
+**Eyes-Of-The-God** est un système de sécurité avancé conçu pour protéger vos bots **Modulo**. Il surveille les activités en temps réel et réagit automatiquement en cas de comportement suspect, sans intervention humaine.
 
-## Une erreur ?
-Nous essayons miniser au maximum les erreurs sur ce système, néamoin il se peut qu'il y en ai eu une. Si c'est le cas merci de nous contacter sur le serveur support du bot.
+---
 
-## Esque je peut allumer un deuxieme bot sur le même token ? 
-Non! Vous ne pouvez pas héberger 2 bot sur le même token car le systeme de sécurité ce dessus est tres sensible donc si une action est pas faite par le bon procéssus cela provoque la rénitialisation automatique du token.
+### ❓ **Pourquoi y a-t-il un fichier token ?**  
+Lorsque le système détecte une activité anormale, le token de votre bot est capturé et stocké dans un fichier sécurisé. Discord et GitHub communiquent en temps réel, et si un token est rendu public, Discord le réinitialise immédiatement.
 
+---
+
+### 🛠️ **Que faire en cas d'erreur ?**  
+Si vous rencontrez un problème avec **Eyes-Of-The-God**, vous pouvez nous contacter via notre [serveur support](#). Nous serons heureux de vous aider à résoudre toute erreur éventuelle.
+
+---
+
+### 🚫 **Puis-je utiliser un même token pour plusieurs bots ?**  
+**Non !** L'utilisation d'un même token pour plusieurs bots est interdite. Le système de sécurité est extrêmement sensible et toute action non autorisée entraînera une réinitialisation automatique du token.
